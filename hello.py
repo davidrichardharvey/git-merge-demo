@@ -1,1 +1,2 @@
-print("Hello world")
+def Munir():
+   print("Hello Munir")
