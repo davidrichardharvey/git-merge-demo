@@ -1,3 +1,5 @@
 def david():
     print("Hello David!")
-    print("Hello Elios!")
+
+def elios():
+    print("Howdy Partner, Welcome Elios!")
