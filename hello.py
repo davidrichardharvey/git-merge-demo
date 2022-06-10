@@ -15,4 +15,5 @@ greeting('James')
 
 
 
-
+def konrad():
+    print("Hello Konrad!")
