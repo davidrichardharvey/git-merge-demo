@@ -1,3 +1,8 @@
+
+def darnell():
+   print("hello Darnell")
+
+    
 def david():
     print("Hello David!")
 
@@ -11,6 +16,7 @@ def greeting(first_name):
 
     
 greeting('James')
+
 
 
 
