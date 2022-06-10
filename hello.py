@@ -1,10 +1,6 @@
 def david():
     print("Hello David!")
 
-<<<<<<< HEAD
-def konrad():
-    print("Hello Konrad!")
-=======
 
 def harry():
     print("Hello Harry!")
@@ -20,4 +16,5 @@ greeting('James')
 
 
 
->>>>>>> origin/main
+def konrad():
+    print("Hello Konrad!")
