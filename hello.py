@@ -1,2 +1,5 @@
-def david():
-    print("Hello David!")
+def greet(name):
+    return f"Hello {name} "
+
+
+print(greet("Darnell"))
