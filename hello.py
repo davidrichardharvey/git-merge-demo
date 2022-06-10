@@ -9,3 +9,6 @@ def emma():
 def harry():
     print("Hello Harry!")
 >>>>>>> main
+
+def emma():
+print("Hello Emma")
